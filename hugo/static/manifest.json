@@ -1,0 +1,14 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Theorem",
+  "description": "A boilerplate",
+  "short_name": "Theorem",
+  "icons": [],
+  "scope": "/",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#2271ff",
+  "background_color": "#fff"
+}
