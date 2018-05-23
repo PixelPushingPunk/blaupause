@@ -1,0 +1,7 @@
+backend:
+  name: github # git-gateway if using Netlify Identity integration
+  repo:  PixelPushingPunk/blaupause
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "hugo/static/assets"
+public_folder: "/assets"
